@@ -3,3 +3,24 @@
 3 2 6 #another comment$
 1 4 0
 8 7 5
+
+## DevOps:
+    # inception-of-things
+    # cloud-1
+## Web:
+    # matcha
+    # hypertube
+    # red-tetris
+    # music-room
+## Security
+    # snow-crash
+    # boot2root
+    # rainfall
+    # override
+## Ai & Algorithms
+    # lem_in
+    # n-puzzle
+    # rubik
+    # krpsim
+    # expert-system
+    # gomoku
